@@ -13,6 +13,6 @@ Performed basic exploratory checks after cleaning
 
 Google Colab, Python, Pandas, NumPy
 
-Outcome
+# Outcome
 
 A properly cleaned and structured dataset ready for further analysis and visualization.
